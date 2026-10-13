@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Mark 👋
 
 <!--
 **whibs/whibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software developer with a background in building and maintaining business applications.  I'm based in Kent, UK.  I am currently focussing on **C#, .NET, Azure and DevOps**.
